@@ -71,10 +71,11 @@ h6 {
 }
 
 p {
-  margin-top: 0px;
-  margin-bottom: 20px;
-  font-family: Lato, sans-serif;
-  line-height: 160%;
+	margin-top: 0px;
+	margin-bottom: 20px;
+	font-family: Lato, sans-serif;
+	line-height: normal;
+	width: auto;
 }
 
 a {
@@ -286,11 +287,11 @@ figcaption {
 }
 
 .grey-rule {
-  width: 90px;
-  height: 1px;
-  margin-top: 15px;
-  margin-bottom: 15px;
-  background-color: #c7c7c7;
+	width: auto;
+	height: 1px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	background-color: #c7c7c7;
 }
 
 .site-name {
